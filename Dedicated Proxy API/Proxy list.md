@@ -53,8 +53,9 @@ Parameter description:
 
 Field Description:
 
-| id           | Proxy ID                                                     |
+| Field Name   | Description                                                  |
 | ------------ | ------------------------------------------------------------ |
+| id           | Proxy ID                                                     |
 | host         | Connect to host                                              |
 | port         | port                                                         |
 | public_ip    | Egress IP                                                    |

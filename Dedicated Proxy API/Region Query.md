@@ -48,8 +48,9 @@
 
 Field description:
 
-| id           | Proxy region ID                                              |
+| Field Name   | Description                                                  |
 | ------------ | ------------------------------------------------------------ |
+| id           | Proxy region ID                                              |
 | ip_type      | Proxy type: STATIC_DATACENTER static data center STATIC_ISP static residential  STATIC_ISP_PRO static residential pro |
 | status       | Status: true on sale; false sold out/removed                 |
 | ip_version   | IP version: IPv4  IPv6                                       |

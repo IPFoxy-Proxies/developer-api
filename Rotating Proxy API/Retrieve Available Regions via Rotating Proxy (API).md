@@ -25,8 +25,9 @@
 
 Field description:
 
-| country_code | Country Code         |
+| Field Name   | Description          |
 | ------------ | -------------------- |
+| country_code | Country Code         |
 | state_code   | State/Province Codes |
 | city_code    | City Code            |
 | country      | nation               |

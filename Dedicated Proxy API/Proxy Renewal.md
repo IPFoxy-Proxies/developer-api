@@ -31,6 +31,6 @@ Parameter description:
 
 Field description:
 
-| order_id | Order ID |
-| -------- | -------- |
-|          |          |
+| Field Name | Description |
+| ---------- | ----------- |
+| order_id   | Order ID    |

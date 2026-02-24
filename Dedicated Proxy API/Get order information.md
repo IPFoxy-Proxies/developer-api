@@ -38,8 +38,9 @@ Parameter description:
 
 Field description:
 
-| id          | Order ID                                     |
+| Field Name  | Description                                  |
 | ----------- | -------------------------------------------- |
+| id          | Order ID                                     |
 | total_price | Order amount (actual deduction)              |
 | proxy_ids   | Proxy ID collection                          |
 | proxy_count | Number of proxies purchased/renewed in order |

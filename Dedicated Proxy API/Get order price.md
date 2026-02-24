@@ -35,7 +35,8 @@ Parameter description:
 
 Field description:
 
-| id          | Proxy region ID                             |
+| Field Name  | Description                                 |
 | ----------- | ------------------------------------------- |
+| id          | Proxy region ID                             |
 | order price | Price                                       |
 | order_type  | Order type: BUY new purchase EXTEND renewal |

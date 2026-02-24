@@ -48,8 +48,9 @@ Once approved, you will be able to obtain Rotating Proxy line Regions via the fo
 
 Field Description:
 
-| val_cn              | Chinese                       |
+| Field Name          | Description                   |
 | ------------------- | ----------------------------- |
+| val_cn              | Chinese                       |
 | val_en              | English                       |
 | val_ru              | Russian                       |
 | val_tc              | Traditional Chinese           |

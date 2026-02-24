@@ -24,7 +24,8 @@
 
 Field description:
 
-| balance       | Balance               |
+| Field Name    | Description           |
 | ------------- | --------------------- |
+| balance       | Balance               |
 | cashback      | Bonus                 |
 | total_balance | Total account balance |
